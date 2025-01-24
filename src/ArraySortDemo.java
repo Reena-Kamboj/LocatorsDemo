@@ -8,7 +8,7 @@ public class ArraySortDemo {
         for(int i: a){
             System.out.println(i);
         }
-        System.out.println("primitive array after Sorting");
+        System.out.println("primitive array after Sorting in ascending order");
         Arrays.sort(a);
         for(int i:a){
             System.out.println(i);
